@@ -1,0 +1,4 @@
+span,.info{font-weight: bolder}
+#name,#sex,#phone,#email{display: inline-block;padding-right: 50px}
+#job,#page{display: inline-block}
+.info1{height: 50px}

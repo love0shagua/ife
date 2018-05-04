@@ -1,0 +1,8 @@
+body{margin: 0;}
+#resume{width: 15%;float: left;text-align:center;background-color: #6fbfff;color: white;height: 700px}
+h1{margin-top:50px}
+#right{float: left;margin-left: 20px;height: 700px}
+span,.info{font-weight: bolder}
+#name,#sex,#phone,#email{display: inline-block;padding-right: 50px}
+#job,#page{display: inline-block}
+.info1{height: 50px}
